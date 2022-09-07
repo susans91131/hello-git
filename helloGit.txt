@@ -1,1 +1,5 @@
 hello git
+
+我的第一版紀錄
+
+version 1.0.0
