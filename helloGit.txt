@@ -1,5 +1,7 @@
 hello git
 
-v1.0.1紀錄
+v1.0.2紀錄
 
 Version 1.0.1
+
+Version 1.0.2
